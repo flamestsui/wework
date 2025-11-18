@@ -1,4 +1,5 @@
 # 企业微信机器人通知（Home Assistant 集成）
+[![Lastest Release](https://img.shields.io/github/release/flamestsui/wework.svg?style=flat)](https://github.com/flamestsui/wework/releases)[![GitHub All Releases](https://img.shields.io/github/downloads/flamestsui/wework/total)](https://github.com/flamestsui/wework/releases)
 
 一个用于 Home Assistant 的企业微信机器人通知集成，支持多种消息类型发送，包括文本、Markdown、图片、新闻和文件。
 
